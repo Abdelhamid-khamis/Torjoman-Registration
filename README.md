@@ -13,7 +13,7 @@ This project automates the registration process on the Torjoman website using Se
 
 1. Clone the repository:
     ```sh
-    git clone <repository-url>
+    git clone (https://github.com/Abdelhamid-khamis/Torjoman-Registration.git)
     cd <repository-directory>
     ```
 
